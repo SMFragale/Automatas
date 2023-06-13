@@ -1,2 +1,2 @@
 # Automatas
-Librería de autómatas
+A simple Java implementation of a Finite State Machine
